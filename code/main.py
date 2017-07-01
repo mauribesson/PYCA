@@ -74,8 +74,8 @@ class MainWindow(QMainWindow):
     def setDefaultPort(self):
         self.ui.updatePortTextLine.setText(PORT)
         pass 
+    
         
-    pass
 
 
 
